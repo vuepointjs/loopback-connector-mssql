@@ -1,6 +1,6 @@
 {
   "name": "@vuept/loopback-connector-mssql",
-  "version": "3.3.0-vp.2",
+  "version": "3.3.0-vp.3",
   "description": "Microsoft SQL Server connector for LoopBack",
   "engines": {
     "node": ">=6"
