@@ -1,9 +1,9 @@
 {
   "name": "@vuept/loopback-connector-mssql",
-  "version": "3.3.0-vp.5",
+  "version": "3.3.0-vp.6",
   "description": "Microsoft SQL Server connector for LoopBack",
   "engines": {
-    "node": ">=6"
+    "node": ">=10"
   },
   "keywords": [
     "StrongLoop",
